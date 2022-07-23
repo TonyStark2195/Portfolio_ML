@@ -1,0 +1,7 @@
+To resolve the graphql duplicate versions. Run npm audit fix and check npm list graphql.
+
+utils->config.js
+Changing social media stuff and links
+
+src->components->sections->hero.js
+First landing text/ introduction
