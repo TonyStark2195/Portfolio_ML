@@ -3,20 +3,20 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/TonyStark2195',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/AswinShriram',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/aswin-shriram-thiagarajan-a4097043/',
     },
     {
+      name: 'GitHub',
+      url: 'https://github.com/TonyStark2195',
+    },
+    {
       name: 'Kaggle',
       url: 'https://www.kaggle.com/aswinstark',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/AswinShriram',
     },
     {
       name: 'Instagram',

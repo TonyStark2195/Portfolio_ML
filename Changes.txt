@@ -5,3 +5,20 @@ Changing social media stuff and links
 
 src->components->sections->hero.js
 First landing text/ introduction
+
+https://www.svgviewer.dev/
+to get the svg image customized
+src->components->icons
+
+// $(window).on('load', function(){
+  //       $(".typing").typed({
+  //           strings: ["I am A Freelancer.", "I Design Websites.", "I Live in New York."],    /* You can change the home section typing text from
+	//                                                                                             here and do not use "&" use "and" */
+  //           typeSpeed: 50
+  //         });
+  //        });
+         
+  // var three = <h1><span class="typing"></span></h1>;
+
+  // import typed from 'typed.js';
+// import $ from "jquery";
